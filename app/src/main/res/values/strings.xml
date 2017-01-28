@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Movies App</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_moviedetail">moviedetail</string>
+    <string name="title_activity_details_of_movie">details_of_movie</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_movie_label">sort movies As</string>
+    <string name="pref_movie_key">movies_sort</string>
+    <string name="pref_defult_sorting">most popular</string>
+    <array name="pref_kind_of_sorting_values">
+        <item>most popular</item>
+        <item>highest rated</item>
+        <item>favorites</item>
+    </array>
+    <array name="pref_kind_of_sorting_options">
+        <item>most popular</item>
+        <item>highest rated</item>
+        <item>favorites</item>
+    </array>
+    <string name="title_activity_display_trailers_rewiews">display_trailers_rewiews</string>
+    <string name="title_activity_display_revews">display_revews</string>
+</resources>
